@@ -1408,6 +1408,14 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/my-micra-diary-128x128.png");
 }
+.cid-rp7v9bqlXS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rp7v9bqlXS P {
+  color: #767676;
+}
 .cid-rp7e5UY1Cr .modal-body .close {
   background: #1b1b1b;
 }
