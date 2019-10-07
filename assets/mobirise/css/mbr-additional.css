@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&display=swap);
 
 
 
@@ -40,12 +41,12 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -546,12 +547,12 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #149dcc;
@@ -1636,4 +1637,43 @@ section.lazy-placeholder:after {
 }
 .cid-rEdA9GutVU .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
+}
+.cid-rEdA9GutVU .mbr-section-subtitle DIV {
+  text-align: left;
+}
+.cid-rEdGXmrWSU {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rEdGXmrWSU .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rEdGXmrWSU .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-rEdGXmrWSU .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rEdGXmrWSU .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rEdI5FpXdi {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rEdI5FpXdi .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rEdI5FpXdi .mbr-section-subtitle DIV {
+  text-align: left;
 }
